@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#karna {
+  border: 3px solid rgb(241, 240, 240);
+  box-shadow: 5px 5px 30px rgb(213, 214, 214);
+  border-radius: 25px;
+  margin-left: 63vw;
+  width: 32vw;
+  height: 36vw;
+}
+#input {
+  position: absolute;
+  border-radius: 6px;
+  margin-top: 35vh;
+  margin-left: 10vw;
+  height: 7.3vh;
+  border: 3px solid rgb(53, 6, 114);
+  width: 35vw;
+  font-size: 24px;
+}
+#icon {
+  position: absolute;
+  padding-top: 34vh;
+  margin-left: 5.5vw;
+  color: rgb(53, 25, 214);
+  font-size: 4.5vw;
+}
+#nav {
+  padding-left: 400px;
+  background-color: rgb(1, 5, 5);
+  color: rgb(238, 99, 196);
+  height: 8.1vh;
+}
+
+#whatsapp {
+  margin-left: 2vw;
+  color: rgb(77, 177, 47);
+  font-size: 6vw;
+  position: absolute;
+  padding-top: 68vh;
+}
+.fot {
+  padding-left: 470px;
+  background-color: rgb(0, 0, 0);
+  height: 7vh;
+  padding-top: 2vh;
+  color: rgb(255, 255, 255);
+}
+.single {
+  width: 90vw;
+}
+body {
+  background: linear-gradient(rgb(51, 47, 43), white);
+}
+h5 {
+  color: rgb(231, 231, 231);
+}
